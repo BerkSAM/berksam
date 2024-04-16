@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berksam&label=Profile%20views&color=0e75b6&style=flat" alt="berksam" /> </p>
 
-- 👨‍💻 My website is here [www.berksam.com.tr](www.berksam.com.tr)
+- 👨‍💻 My website is here [www.berksam.com.tr](https://www.berksam.com.tr)
 
 - 📝 I'm learning now **Kotlin**
 
