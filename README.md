@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.berksam.com.tr/MyCVNew.pdf](https://www.berksam.com.tr/MyCVNew.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/berksam/)</h3>
 <p align="left">
 </p>
 
