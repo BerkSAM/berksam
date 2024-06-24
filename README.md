@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mustafaberksam@gmail.com**
 
-- 📄 Know about my experiences [https://www.berksam.com.tr/MyCVNew.pdf](https://www.berksam.com.tr/MyCVNew.pdf) -- (old to be edited)
+- 📄 Know about my experiences [https://www.berksam.com.tr/MyCVNew.pdf](https://www.berksam.com.tr/MyCVNew.pdf) -- <b>(old to be edited)</b>
 
 - ⌨️ Connect with me: [LinkedIn](https://www.linkedin.com/in/berksam/)
 
@@ -33,8 +33,8 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berksam&show_icons=true&locale=en&layout=compact" alt="berksam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berksam&" alt="berksam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berksam&show_icons=true&locale=en" alt="berksam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berksam&" alt="berksam" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berksam&show_icons=true&locale=en&layout=compact" alt="berksam" /></p>
