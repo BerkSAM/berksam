@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **mustafaberksam@gmail.com**
 
-- 📄 Know about my experiences [https://www.berksam.com.tr/MyCVNew.pdf](https://www.berksam.com.tr/MyCVNew.pdf) -- <b>(old to be edited)</b>
-
 - ⌨️ Connect with me: [LinkedIn](https://www.linkedin.com/in/berksam/)
 
 <h3 align="left">Languages and Tools:</h3>
