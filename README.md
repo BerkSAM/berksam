@@ -8,8 +8,8 @@
 
 **AI-native developer** · Türkiye 🇹🇷
 
-Building small, focused tools for teams and servers, with AI agents in the loop.<br/>
-Ekipler ve sunucular için küçük, odaklı araçlar; işin içinde AI ajanları.
+Started with software, evolved into AI. These days most of my side projects begin with *"what if an agent could do this?"*<br/>
+Yazılımla başladı, AI'a evrildi. Artık yan projelerimin çoğu *"bunu bir ajan yapabilir mi?"* sorusuyla başlıyor.
 
 🌐 [Website](https://berksam.github.io/berk-sam-site/)<br/>
 💼 [LinkedIn](https://www.linkedin.com/in/berksam/)<br/>
