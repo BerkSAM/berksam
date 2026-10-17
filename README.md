@@ -1,10 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.png" />
-  <img src="assets/portrait-dark.png" alt="M. Berk SAM" width="400" align="left" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png" />
+  <img src="assets/hero-dark.png" alt="M. Berk SAM" width="400" align="left" />
 </picture>
 
-<h1>M. Berk SAM</h1>
+<h3>M. Berk SAM</h3>
 
 **AI-native developer** · Türkiye 🇹🇷
 
