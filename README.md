@@ -23,7 +23,7 @@ Ekipler ve sunucular için küçük, odaklı araçlar; işin içinde AI ajanlar�
 
 ## 🇬🇧 English
 
-**AI-native developer from Turkey.** I build small, focused tools for teams and servers, working alongside AI agents end to end.
+**AI-native developer from Turkey.** Alongside my professional work, I build small, focused tools for teams and servers, working with AI agents end to end.
 
 ### 🔨 What I'm building
 
@@ -33,6 +33,8 @@ Ekipler ve sunucular için küçük, odaklı araçlar; işin içinde AI ajanlar�
 | **[Lodos](https://berksam.github.io/lodos-landing/)** | A tiny desktop companion for small teams: drop a file or a one-line message onto a dot that lives on your screen. Tauri. |
 | **[orkestrasyon](https://github.com/BerkSAM/orkestrasyon)** | A lightweight, file-based protocol for multi-agent development: Claude Code, Codex and Antigravity reviewing each other in roles. |
 
+Feel free to [reach out](mailto:mustafaberksam@gmail.com) for details.
+
 ### 💬 Ask me about
 
 Shipping real products with AI coding agents (Claude Code, Codex): multi-agent workflows, agent memory, review loops. Plus C#, .NET, Angular, TypeScript and SQL Server / PostgreSQL.
@@ -41,7 +43,7 @@ Shipping real products with AI coding agents (Claude Code, Codex): multi-agent w
 
 ## 🇹🇷 Türkçe
 
-**Türkiye'den AI-native geliştirici.** Ekipler ve sunucular için küçük, odaklı araçlar yapıyorum; işin başından sonuna AI ajanlarıyla birlikte çalışıyorum.
+**Türkiye'den AI-native geliştirici.** Profesyonel işimin yanında ekipler ve sunucular için küçük, odaklı araçlar yapıyorum; işin başından sonuna AI ajanlarıyla birlikte çalışıyorum.
 
 ### 🔨 Neler yapıyorum
 
@@ -50,6 +52,8 @@ Shipping real products with AI coding agents (Claude Code, Codex): multi-agent w
 | **[Sevkit](https://berksam.github.io/sevkit-landing/)** | Kendi sunucunda çalışan deploy, sürüm ve sunucu operasyon yönetimi. Agent tabanlı, Windows + Linux. .NET 10 + React. |
 | **[Lodos](https://berksam.github.io/lodos-landing/)** | Küçük ekipler için masaüstünde duran küçük bir nokta: dosyayı ya da tek satırlık mesajı üstüne bırak, ekibine gitsin. Tauri. |
 | **[orkestrasyon](https://github.com/BerkSAM/orkestrasyon)** | Çok ajanlı yazılım geliştirme için dosya tabanlı hafif protokol: Claude Code, Codex ve Antigravity birbirini denetleyen roller halinde. |
+
+Detaylar için [iletişime geçmekten](mailto:mustafaberksam@gmail.com) çekinmeyin.
 
 ### 💬 Bana sor
 
