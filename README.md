@@ -8,8 +8,8 @@
 
 **AI-native developer** · Türkiye 🇹🇷
 
-It started with software, evolved into AI, and I've loved every bit of it.<br/>
-Yazılımla başladı, AI'a evrildi ve bunu çok sevdim.
+It started with software, evolved into AI, and I love this path.<br/>
+Yazılımla başladı, AI'a evrildi ve bu yolu çok sevdim.
 
 🌐 [Website](https://berksam.github.io/berk-sam-site/)<br/>
 💼 [LinkedIn](https://www.linkedin.com/in/berksam/)<br/>
