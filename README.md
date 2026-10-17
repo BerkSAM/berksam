@@ -8,8 +8,8 @@
 
 **AI-native developer** · Türkiye 🇹🇷
 
-Started with software, evolved into AI. These days most of my side projects begin with *"what if an agent could do this?"*<br/>
-Yazılımla başladı, AI'a evrildi. Artık yan projelerimin çoğu *"bunu bir ajan yapabilir mi?"* sorusuyla başlıyor.
+It started with software, evolved into AI, and I've loved every bit of it.<br/>
+Yazılımla başladı, AI'a evrildi ve bunu çok sevdim.
 
 🌐 [Website](https://berksam.github.io/berk-sam-site/)<br/>
 💼 [LinkedIn](https://www.linkedin.com/in/berksam/)<br/>
