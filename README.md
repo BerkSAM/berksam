@@ -1,16 +1,23 @@
-<p align="center">
-  <img src="assets/portrait-particles.gif" alt="M. Berk SAM" width="280" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.png" />
+  <img src="assets/portrait-dark.png" alt="M. Berk SAM" width="400" align="left" />
+</picture>
 
-<h1 align="center">M. Berk SAM</h1>
+<h1>M. Berk SAM</h1>
 
-<p align="center">
-  <a href="https://berksam.github.io/berk-sam-site/">Website</a> ·
-  <a href="https://www.linkedin.com/in/berksam/">LinkedIn</a> ·
-  <a href="mailto:mustafaberksam@gmail.com">mustafaberksam@gmail.com</a>
-</p>
+**AI-native developer** · Türkiye 🇹🇷
 
-<p align="center"><a href="#-english">English</a> · <a href="#-türkçe">Türkçe</a></p>
+Building small, focused tools for teams and servers, with AI agents in the loop.<br/>
+Ekipler ve sunucular için küçük, odaklı araçlar; işin içinde AI ajanları.
+
+🌐 [Website](https://berksam.github.io/berk-sam-site/)<br/>
+💼 [LinkedIn](https://www.linkedin.com/in/berksam/)<br/>
+📫 [mustafaberksam@gmail.com](mailto:mustafaberksam@gmail.com)
+
+[English](#-english) · [Türkçe](#-türkçe)
+
+<br clear="left" />
 
 ---
 
