@@ -55,8 +55,3 @@ AI kod ajanlarıyla (Claude Code, Codex) gerçek ürün çıkarmak: çok ajanlı
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,js,python,kotlin,postgres,redis,rabbitmq,docker,linux,tauri,git,grafana&perline=8" alt="stack" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=berksam&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berksam&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
